@@ -2112,4 +2112,193 @@ To maintain the legitimacy of all amendment and renewal processes:
 * All civic participants shall have the right to propose interpretations, raise objections, and document local constitutional understandings
 * An open-access **Civic Law Journal** shall track evolving practices, precedents, and unresolved questions arising from the constitutional order
 
+
+---
+
+# **Article XII – Principles of the Legal System**
+
+## **Section 1. The Foundation of Law**
+
+1. The legal system of the Project City shall operate under the supreme principle of **the Rule of Law**. No person, institution, or branch of government is above the law, and all actions taken by public authorities must be authorized by, and compliant with, the law.
+
+2. The Constitution of the Project City is the highest legal authority. All laws, executive actions, court decisions, regulations, and administrative orders shall conform to it.
+
+3. The creation, interpretation, enforcement, and repeal of law shall be governed by:
+
+   * **Constitutional procedure**
+   * **Transparency**
+   * **Deliberative democracy**
+   * **The principle of legality** in criminal and civil law
+   * **The principle of illegality** in administrative law
+   * **Equity, justice, and rationality** in all legal proceedings
+
+---
+
+## **Section 2. Legislative Hierarchy and Principles**
+
+1. The hierarchy of legal norms in the Project City shall be as follows:
+
+   * (a) **The Constitution**
+   * (b) **Constitutional Amendments**
+   * (c) **Treaties and International Law recognized as binding**
+   * (d) **Organic Laws** (requiring supermajority approval)
+   * (e) **Ordinary Laws** passed by the Civic Assembly
+   * (f) **Regulations and Directives** from Ministries and Executive Councils
+   * (g) **Local Ordinances** and Civic Block Bylaws
+
+2. In the event of a conflict between laws:
+
+   * **Lex Superior**: Higher-ranking laws prevail over lower ones.
+   * **Lex Posterior**: More recent laws prevail over older ones at the same hierarchical level.
+   * **Lex Specialis**: More specific laws prevail over more general ones.
+
+---
+
+## **Section 3. Types of Law and Jurisdictional Separation**
+
+1. The legal system shall consist of three primary domains:
+
+   * **Civil Law**: Governing private relations between individuals or organizations (e.g. contracts, property, torts).
+   * **Criminal Law**: Governing offenses against public order and safety.
+   * **Administrative Law**: Governing the actions and responsibilities of government agencies and officials.
+
+2. Each domain shall have its own specialized courts, legal standards, and procedures. A unified **Supreme Civic Tribunal** shall resolve conflicts of jurisdiction and interpret constitutional issues.
+
+3. Criminal and civil law shall follow the **principle of legality**: no act shall be punishable unless it is clearly and previously defined as unlawful by statute.
+
+4. Administrative law shall follow the **principle of illegality**: no administrative action is permitted unless explicitly authorized by law.
+
+---
+
+## **Section 4. Separation of Powers**
+
+1. The government of the Project City is organized around the classical **separation of powers**:
+
+   * **Legislative** power lies with the **Civic Assembly** and Civic Block.
+   * **Executive** power is exercised by the **Ministries**, **Councils**, and **Administrative Commissions**.
+   * **Judicial** power resides in an **independent judiciary**, immune from political control.
+
+2. No branch shall infringe upon the core functions of another, except through constitutionally sanctioned checks and balances.
+
+3. All agencies and branches must publicly account for their actions, budgets, and decisions, and remain subject to judicial review.
+
+---
+
+## **Section 5. Courts and Legal Proceedings**
+
+1. **Court System**:
+
+   * Civil, criminal, and administrative courts shall be independently organized.
+   * A **Community Court of Peers** shall be available in each district to adjudicate minor civil and criminal cases.
+   * A **Superior Court of Appeal** shall oversee appellate jurisdiction.
+   * The **Supreme Civic Tribunal** shall rule on constitutional questions and serve as the court of final instance.
+
+2. **Rights in Legal Proceedings**:
+
+   * All individuals are entitled to **due process**, **habeas corpus**, and **a fair and public trial without undue delay**.
+   * Accused persons have the **presumption of innocence** until proven guilty beyond a reasonable doubt.
+   * The right to be judged in **criminal trials by a panel of representative peers** from one’s local Civic Block is guaranteed.
+   * Trials must ensure **access to counsel**, the right to cross-examine witnesses, and the availability of translation when necessary.
+
+3. **Equality Before the Law**:
+
+   * All persons are equal before the law. Discrimination in legal outcomes based on race, class, gender, sexuality, belief, ability, or origin is prohibited and punishable.
+
+---
+
+## **Section 6. Legal Interpretation and Equity**
+
+1. The interpretation of all laws shall:
+
+   * Favor **the spirit over the letter** of the law when necessary to uphold justice.
+   * Apply **plain meaning** where texts are clear and unambiguous.
+   * Follow the principles of **equity, human dignity, and proportionality** in sentencing and judgment.
+
+2. In the absence of a specific rule, courts may draw upon:
+
+   * General legal principles of civic justice
+   * Comparative jurisprudence
+   * Ethical reasoning and civic values enshrined in the Constitution
+
+3. **Equity panels** may be convened in certain cases to allow creative or restorative resolutions where standard law fails to achieve fair outcomes.
+
+---
+
+## **Section 7. Legal Personnel and Meritocratic Appointments**
+
+1. Judges, prosecutors, public defenders, and legal administrators shall be selected through **open, merit-based procedures** that include:
+
+   * Legal examination
+   * Ethical review
+   * Public hearings and community oversight for senior positions
+
+2. The **Ministry of Legal Integrity and Justice** shall maintain:
+
+   * An open registry of qualified legal professionals
+   * A disciplinary body for misconduct
+   * A system of continuing legal education rooted in civic engagement and deliberative practices
+
+---
+
+## **Section 8. Deliberative Legal Democracy**
+
+1. Laws must be created through **participatory, transparent, and informed democratic processes**, including:
+
+   * Public consultations
+   * Civic Block legislative input
+   * Accessible summaries of proposed laws
+   * Systematic reviews of existing statutes for clarity and redundancy
+
+2. The Project City shall develop a **Civic Codex**, publicly maintained, searchable, and annotated, integrating:
+
+   * Statutory law
+   * Case law
+   * Regulatory materials
+   * Commentary and citizen guides
+
+---
+
+## **Section 9. The Military and the Law**
+
+1. The **military and public security forces** are subordinate to:
+
+   * The **legislative branch**, for funding and authorization of missions
+   * The **executive branch**, for command and administration
+   * The **judicial branch**, for legal accountability
+
+2. Ultimate sovereignty rests with the **people** through their constitutional institutions. The military shall not:
+
+   * Participate in domestic policing except in cases of declared emergency
+   * Intervene in political processes
+   * Be exempt from civil or criminal prosecution
+
+---
+
+## **Section 10. Limitations and Emergency Law**
+
+1. The declaration of **states of emergency** may permit temporary suspension of certain procedural guarantees, but:
+
+   * Must be limited in scope and duration
+   * Require **supermajority legislative approval**
+   * Be reviewed every 15 days
+   * Not permit violations of non-derogable rights (e.g. life, dignity, non-discrimination)
+
+2. Emergency orders are subject to **post-facto judicial review** and **truth commissions** if the emergency exceeds 60 days.
+
+---
+
+## **Section 11. Legal Access and Education**
+
+1. All residents shall have:
+
+   * Access to **free legal counsel** in criminal and serious civil cases
+   * Support in navigating administrative law
+   * Translation and accessibility accommodations
+
+2. The Constitution shall require the creation of:
+
+   * A **Civic Legal Education Curriculum** for all students
+   * **Public legal literacy campaigns**
+   * An **Online Legal Portal** accessible to all citizens and residents
+
 ---
