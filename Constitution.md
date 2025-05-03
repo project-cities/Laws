@@ -707,9 +707,676 @@ Until full implementation, interim representative and participatory bodies shall
 **4.6.2. Supremacy of Civic Representation**
 No institution, public or private, may override the deliberative and representative decisions of the Project City’s constitutional bodies, except as outlined by this Constitution.
 
+
 ---
 
+# **Article V. Justice, Law, and Dispute Resolution**
 
+## **Section 1. Foundational Principles**
+
+**5.1.1. Rule of Law**
+The City of Project upholds the **supremacy of law** as the binding force that governs public life, protects rights, resolves disputes, and ensures peaceful coexistence. All persons and institutions, public and private, are subject to and equal before the law.
+
+**5.1.2. Access to Justice**
+All residents shall enjoy **equal, timely, and affordable access to justice**, regardless of status, income, language, or identity. No individual shall be denied legal remedy, procedural fairness, or protection of fundamental rights.
+
+**5.1.3. Independence and Integrity of the Judiciary**
+The judicial system shall be **independent**, impartial, and free from political or financial influence. Judicial decisions shall be based solely on evidence, constitutional principles, and applicable law.
+
+**5.1.4. Restorative and Transformative Justice**
+The justice system shall prioritize **restorative**, **transformative**, and **rehabilitative approaches** to conflict resolution. Carceral and punitive measures shall be used only when necessary, and with full procedural safeguards.
+
+**5.1.5. Multijuridical Recognition**
+The legal system shall respect and recognize multiple valid legal traditions, including **customary law**, **community justice**, and **mediation-based systems**, provided they adhere to constitutional standards of equality, dignity, and due process.
+
+---
+
+## **Section 2. Judicial Institutions**
+
+### **5.2.1. The Constitutional Tribunal**
+
+The **Constitutional Tribunal** is the highest judicial body charged with ensuring the integrity of this Constitution and resolving conflicts of constitutional authority.
+
+**Composition**:
+
+* Nine judges selected through a combined process of Civic Assembly nomination, Chamber confirmation, and Civic Block advisory votes
+* Judges serve staggered **non-renewable 12-year terms**
+* Judges must demonstrate constitutional expertise, public ethics, and independence
+
+**Powers**:
+
+* Review laws, executive actions, and public policies for constitutionality
+* Adjudicate disputes between branches of government or between Civic Blocks and institutions
+* Hear appeals related to civic rights, liberties, and equal protection
+* Issue **binding constitutional interpretations** with citywide applicability
+
+**Procedures**:
+
+* Petitions may be submitted by: any individual, Civic Block, institutional actor, or minority group
+* Urgent constitutional questions must receive **preliminary hearings within 15 days**
+* Decisions must be issued publicly with written reasoning, translated into all official languages
+
+---
+
+### **5.2.2. The Civil and Administrative Courts**
+
+**Civil Courts** handle:
+
+* Contractual disputes
+* Property and family law
+* Labor relations
+* Torts and civil liabilities
+
+**Administrative Courts** handle:
+
+* Challenges to government actions
+* Licensing and zoning disputes
+* Procurement and public employment issues
+* Social benefits and service entitlements
+
+**Structure**:
+
+* Distributed across city districts, with at least one **Justice Hub per administrative zone**
+* Each hub must provide access to legal aid, mediation services, and multilingual staff
+
+**Appeals**:
+
+* A dedicated **Appellate Court** handles appeals from both civil and administrative courts
+* The Appellate Court may refer constitutional issues directly to the Tribunal
+
+---
+
+### **5.2.3. The Restorative Justice Panel**
+
+The **Restorative Justice Panel (RJP)** is a non-carceral, community-based adjudicative body empowered to resolve:
+
+* Low-level offenses
+* Community disputes
+* Interpersonal harm
+* Youth-related infractions
+
+**Composition**:
+
+* Trained facilitators, peer mediators, and community elders
+* Observers from human rights groups and Civic Blocks
+* Public defenders and victim support advocates
+
+**Mandate**:
+
+* Offer truth-based, restorative dialogues between involved parties
+* Create reparation plans, community service obligations, or reconciliatory actions
+* Prevent escalation into punitive systems where possible
+
+Participation is **voluntary** but incentivized by **reduced penalties**, **public record sealing**, or **community reintegration credits**.
+
+---
+
+### **5.2.4. The Civic Justice Council**
+
+An overarching advisory and supervisory institution, the **Civic Justice Council (CJC)** ensures judicial accountability, coordination, and innovation.
+
+**Functions**:
+
+* Monitor performance, integrity, and efficiency of courts
+* Appoint judicial ombudspeople and independent inspectors
+* Recommend reforms to justice procedures and access systems
+* Maintain the **Public Judicial Dashboard**, displaying anonymized case statistics, delays, and outcomes
+
+**Composition**:
+
+* Representatives from legal academia, Civic Assembly, Civic Blocks, and retired judges
+* Must publish **biannual reports** with findings and recommendations
+
+---
+
+## **Section 3. Legal Protections and Procedures**
+
+**5.3.1. Right to Legal Representation**
+All persons have the right to competent and confidential legal representation. The **Public Defender Network** shall provide free counsel in all criminal, immigration, eviction, discrimination, or social rights-related cases.
+
+**5.3.2. Presumption of Innocence and Fair Trial**
+No person shall be presumed guilty until proven so beyond reasonable doubt. All accused shall have the right to:
+
+* Be informed of charges in a language they understand
+* Present evidence and challenge witnesses
+* Access a public and impartial hearing
+* Appeal convictions to higher courts
+
+**5.3.3. No Arbitrary Detention or Surveillance**
+All detentions must be judicially authorized and reviewed within 24 hours. Mass surveillance, predictive policing, or indefinite detention are prohibited.
+
+**5.3.4. Equal Standing Before the Law**
+Laws shall not discriminate in their content or application. Mechanisms must be established to monitor systemic disparities and issue **automatic reviews** where disparate impacts are detected.
+
+**5.3.5. Anti-Corruption Enforcement**
+An independent **Judicial Inspectorate**, operating under the Civic Justice Council, shall:
+
+* Conduct unannounced audits of judicial offices
+* Review complaints against judges and clerks
+* Publicize outcomes of disciplinary actions
+
+---
+
+## **Section 4. Integration of Customary and Civic Legal Systems**
+
+**5.4.1. Customary Recognition Courts (CRC)**
+Community-led tribunals may be recognized under the Charter of the City, if they:
+
+* Operate within the bounds of constitutional principles
+* Are democratically governed and open to public observation
+* Protect basic procedural fairness, including appeal rights
+
+**5.4.2. Cooperative Agreements with Civic Blocks**
+Civic Blocks may establish internal legal or mediation bodies. These must:
+
+* Register with the Civic Justice Council
+* Provide bilingual or translated proceedings
+* Offer opt-out and appeal mechanisms for members
+
+---
+
+## **Section 5. Enforcement and Compliance**
+
+**5.5.1. Implementation Metrics**
+The Ministry of Justice shall maintain a **Justice Implementation Index**, tracking:
+
+* Average case resolution time
+* Legal aid coverage by income bracket
+* Incidence of wrongful detention or appeal reversals
+* Public satisfaction with legal access and fairness
+
+These data must be:
+
+* Updated quarterly
+* Available to the public in raw and visualized form
+* Reviewed by an independent **Justice Data Review Board**
+
+**5.5.2. Automatic Escalations**
+If courts or agencies repeatedly fail to meet constitutional benchmarks (e.g., resolving 90% of cases within 180 days):
+
+* Relevant officials shall undergo **mandatory retraining** or reassignment
+* The Civic Justice Council may **suspend discretionary powers** or initiate public review
+* Budgetary increases for legal aid and restorative mechanisms are automatically triggered
+
+**5.5.3. International Legal Compliance Council (ILCC)**
+In alignment with Article VIII, the judiciary shall cooperate with the **ILCC**, which:
+
+* Reviews domestic compliance with international human rights and environmental law
+* Trains judges and legal officials on international legal standards
+* May intervene in domestic proceedings when mandated by treaty obligations
+
+---
+
+## **Section 6. Public Legal Culture**
+
+**5.6.1. Civic Legal Education**
+All residents shall have access to **free, public legal education** in schools, neighborhoods, and workplaces. This includes:
+
+* Basic rights and duties
+* How to navigate courts and legal procedures
+* How to participate in restorative or customary systems
+
+**5.6.2. Transparency in Legal Language**
+All court decisions, laws, and legal forms must be published in **plain language** versions alongside legal versions, and translated into all official city languages.
+
+**5.6.3. Participatory Legal Design**
+New legal processes or reforms must be tested in **Civic Legal Labs** composed of ordinary citizens, public defenders, and people with past justice system experience.
+
+
+---
+
+# **Article VI. Public Finance, Budgeting, and Resource Management**
+
+## **Section 1. Fiscal Sovereignty and Principles**
+
+**6.1.1. Fiscal Democracy**
+The City of Project exercises full sovereignty over its budget and resource allocations in accordance with democratic, equitable, and sustainable principles. The budget is a political instrument of collective will, not merely a financial document.
+
+**6.1.2. Transparency and Public Oversight**
+All financial activities of the City—revenues, expenditures, debts, assets, contracts, and public-private partnerships—shall be fully **transparent**, publicly available, and subject to participatory oversight.
+
+**6.1.3. Equity and Redistribution**
+Public finance must reduce structural inequalities, ensure universal access to public services, and promote intergenerational equity. Wealthier individuals and entities shall contribute a proportionally higher share of public resources.
+
+**6.1.4. Sustainability and Environmental Accounting**
+All budgeting must consider **long-term environmental sustainability**. This includes accounting for ecological assets and liabilities and incorporating **climate risk assessments** in investment and development decisions.
+
+---
+
+## **Section 2. Budgetary Structure and Process**
+
+### **6.2.1. The Public Budget**
+
+The **Annual Public Budget** shall be the central instrument through which the City allocates financial resources. It includes:
+
+* Operational and capital expenditures
+* Social and environmental impact projections
+* Debt obligations and forecasts
+* Revenue breakdowns and equity analyses
+* Participatory budgeting allocations
+
+### **6.2.2. Budget Proposal Process**
+
+The budget shall be drafted, deliberated, and adopted through a multi-stage, participatory process:
+
+1. **Preliminary Review**
+   Conducted jointly by the **Ministry of Finance**, **Civic Budget Forum**, and **Departmental Committees**, beginning no later than 120 days before the new fiscal year.
+
+2. **Public Hearings and Participatory Budgeting**
+   At least 25% of the total discretionary budget must be subject to **Participatory Budgeting Assemblies** across neighborhoods, sectors, and Civic Block forums. These assemblies must:
+
+   * Use open data tools to explore spending options
+   * Rank and vote on project proposals
+   * Allocate resources based on proportional democratic input
+
+3. **Draft Submission**
+   The **Minister of Finance** shall submit a consolidated budget draft to the **Chamber of Delegates**, accompanied by:
+
+   * Environmental and social impact statements
+   * Legal compliance review by the Public Fiscal Auditor
+   * Participatory Budget summary and raw voting data
+
+4. **Legislative Approval**
+   The **Chamber of Delegates** shall review and amend the budget over a maximum 45-day period.
+   The **Civic Assembly** may submit amendments backed by 10,000 verified signatures.
+
+5. **Ratification**
+   Final ratification requires:
+
+   * Simple majority in the **Chamber of Delegates**
+   * Affirmative **Civic Oversight Review** confirming constitutional and participatory compliance
+   * Presidential assent within 10 days, unless vetoed with written justification
+
+---
+
+## **Section 3. Revenue Sources**
+
+### **6.3.1. Taxation Principles**
+
+All taxes must be:
+
+* Progressive in rate and effect
+* Transparent in computation and enforcement
+* Equitable in burden distribution
+* Subject to periodic public review
+
+### **6.3.2. Tax Instruments**
+
+Permissible sources include, but are not limited to:
+
+* **Progressive income taxes**
+* **Land value taxes** based on unimproved land value
+* **Capital gains and inheritance taxes**
+* **Corporate profit taxes** based on locally generated value
+* **Environmental and carbon taxes**
+* **Luxury goods and speculative asset taxes**
+
+Civic Blocks, cooperatives, and socially purposed enterprises may be eligible for partial or full **solidarity-based tax exemptions** upon approval by the Ministry of Finance and Civic Assembly.
+
+### **6.3.3. Non-Tax Revenues**
+
+These may include:
+
+* Public service fees regulated by affordability thresholds
+* Dividends from publicly owned enterprises
+* Rental income from municipally owned land
+* Fines and penalties under rule-of-law standards
+* Voluntary contributions and memberships
+
+---
+
+## **Section 4. Public Assets and Enterprises**
+
+### **6.4.1. Stewardship of Common Goods**
+
+Publicly owned land, infrastructure, natural resources, and enterprises are held **in trust** for present and future generations. They shall be managed:
+
+* With full transparency and public accountability
+* In alignment with social, environmental, and democratic values
+* With preference for cooperatives and community-benefiting uses
+
+### **6.4.2. Strategic Public Enterprises**
+
+The City may establish or hold equity in **Strategic Public Enterprises** operating in sectors such as:
+
+* Energy and water
+* Transportation and communications
+* Housing and construction
+* Food production and distribution
+* Banking and finance
+
+These enterprises must:
+
+* Follow democratic management models, including Civic Block and worker participation
+* Publish open financial and environmental reports quarterly
+* Reinvest profits into public goods and solidarity reserves
+
+---
+
+## **Section 5. Debt and Risk Management**
+
+### **6.5.1. Debt Sustainability Rules**
+
+All public borrowing shall be:
+
+* Subject to strict sustainability and transparency thresholds
+* Used only for capital investment, not operational deficits
+* Approved through both legislative and public consultation channels
+* Monitored by the **Public Debt Review Office (PDRO)**, which maintains a real-time public debt dashboard
+
+Debt exceeding 5% of GDP-equivalent in any fiscal year requires:
+
+* Independent review by a Civic Debt Council
+* Civic Assembly consultation or referendum
+* Detailed intergenerational impact assessment
+
+### **6.5.2. Emergency Finance Mechanism**
+
+In cases of:
+
+* Economic collapse
+* Climate-related destruction
+* Financial market disruption
+
+A **Public Emergency Finance Council (PEFC)** may be activated by a two-thirds vote of the Chamber of Delegates or Executive Decree, subject to immediate Civic Oversight.
+
+The PEFC may:
+
+* Suspend certain taxes or fees
+* Reallocate emergency funds
+* Negotiate short-term stabilization loans
+* Issue time-bound recovery bonds
+
+All such actions must be temporary, publicly justified, and sunset within 12 months unless renewed by public referendum.
+
+---
+
+## **Section 6. Fiscal Accountability and Auditing**
+
+### **6.6.1. Independent Public Auditor**
+
+The **Office of the Public Fiscal Auditor (OPFA)** is an independent constitutional organ tasked with:
+
+* Auditing all public accounts, ministries, and agencies
+* Reviewing budget implementation and legality
+* Investigating corruption, waste, and inefficiency
+* Publishing comprehensive reports quarterly and annually
+
+The Auditor General shall be appointed by a two-thirds vote of the Chamber and serve a non-renewable 7-year term.
+
+### **6.6.2. Civic Oversight Mechanisms**
+
+The **Civic Finance Forum (CFF)** shall:
+
+* Consist of randomly selected residents with financial advisors
+* Review quarterly financial reports and expenditures
+* Hold public hearings with ministers and agency heads
+* Issue **nonbinding public evaluations** of fiscal performance
+
+### **6.6.3. Automatic Corrective Mechanisms**
+
+When fiscal malfeasance, underperformance, or unaccounted spending is found:
+
+* Officials responsible are subject to mandatory administrative review
+* Funds must be recovered, frozen, or redirected to public trusts
+* Repeat violations trigger **automatic disqualification from office** or appointment for at least five years
+
+---
+
+## **Section 7. Intergenerational and Planetary Accountability**
+
+### **6.7.1. Ecological Budgeting**
+
+Each budget cycle must include:
+
+* A **Planetary Balance Sheet**, showing net ecological gain/loss
+* Emission reduction and biodiversity protection targets
+* Spending levels on environmental regeneration
+
+Failure to meet two consecutive ecological targets shall:
+
+* Freeze discretionary spending on non-essential luxury infrastructure
+* Trigger increased mandatory green investment for the following year
+* Require explanatory hearings before the Civic Assembly
+
+### **6.7.2. Intergenerational Fund**
+
+A portion of public revenues—no less than 2%—shall be allocated annually to an **Intergenerational Equity Fund**, which may only be accessed:
+
+* For future-focused investments (climate adaptation, public education, digital infrastructure)
+* With consent of the **Youth and Future Generations Council**
+* With supermajority approval from both chambers
+
+---
+
+## **Section 8. Constitutional Finance Review**
+
+A **Permanent Constitutional Finance Review Panel** shall meet every three years to:
+
+* Assess compliance of budgeting with constitutional equity and sustainability mandates
+* Recommend reforms to improve participatory budgeting
+* Advise the Chamber of Delegates on potential constitutional amendments related to public finance
+
+---
+
+# **Article VII. Land and Infrastructure Stewardship**
+
+## **Section 1. Foundational Principles**
+
+### **7.1.1. Land as a Common Heritage**
+
+All land within the territorial boundaries of Project City is considered part of the **common inheritance of its people**, past, present, and future. It shall not be treated solely as a commodity, but as a shared foundation for social life, ecological balance, and equitable development.
+
+### **7.1.2. Stewardship Over Ownership**
+
+While private, communal, and cooperative rights to use and develop land are recognized, **ultimate stewardship remains with the City**, exercised on behalf of the public good. No form of tenure may override or impair the long-term collective interest.
+
+### **7.1.3. Equitable and Participatory Planning**
+
+The use, development, and protection of land and infrastructure shall be guided by:
+
+* **Public needs** and environmental sustainability
+* **Participatory processes** and deliberative planning
+* **Social equity** and anti-displacement protections
+* **Intergenerational accountability**
+
+---
+
+## **Section 2. Land Use Categories and Tenure Types**
+
+### **7.2.1. Land Classification**
+
+All land shall be classified into the following categories:
+
+1. **Public Commons**: Parks, ecological reserves, cultural landmarks, community gardens, and sacred or historical grounds.
+2. **Public Utility Land**: For infrastructure including roads, transit systems, water and energy grids, waste and recycling facilities.
+3. **Social Infrastructure Land**: Education, health, care facilities, and other public service buildings.
+4. **Residential Land**: For housing, categorized as social, cooperative, mixed-income, or private.
+5. **Economic Land**: Used for commercial, agricultural, or industrial purposes.
+6. **Civic Use Land**: Allocated to Civic Block institutions and nonprofit entities serving the public interest.
+
+Each parcel’s classification shall be publicly recorded and reviewed every 5 years by the **Land Stewardship Agency (LSA)**.
+
+### **7.2.2. Tenure Structures**
+
+Recognized land tenure types include:
+
+* **Public Trust Management**: Land is held and operated by the city or by accountable public entities.
+* **Cooperative Tenure**: Democratically controlled by members for common benefit.
+* **Community Land Trusts (CLTs)**: Nonprofit ownership with leaseholds for residents or groups.
+* **Conditional Private Leaseholds**: Private use rights for a fixed term, subject to public interest conditions.
+* **Temporary Stewardship Rights**: For interim or experimental uses with automatic review and renewal clauses.
+
+No land in the city may be sold into **absolute private ownership**; leaseholds, concessions, or stewardship rights are time-bound, renewable, and revocable based on performance and need.
+
+---
+
+## **Section 3. Land Stewardship Agency (LSA)**
+
+### **7.3.1. Mandate**
+
+The **Land Stewardship Agency (LSA)** is a constitutionally autonomous entity tasked with:
+
+* Managing land allocation, zoning, and tenure systems
+* Conducting ecological and social impact reviews
+* Enforcing anti-speculation and anti-displacement laws
+* Coordinating public, cooperative, and civic use of land
+* Maintaining the **Public Land Registry**
+
+### **7.3.2. Governance**
+
+The LSA Board shall consist of:
+
+* 4 appointees from the **Ministry of Housing and Planning**
+* 3 representatives elected by **Civic Blocks**
+* 2 technical experts elected by the **Urban Professions Guild**
+* 3 randomly selected citizens with no conflicts of interest
+
+Board decisions must be published, appealable, and subject to regular audits by the Civic Accountability Office.
+
+---
+
+## **Section 4. Land Allocation and Development Procedures**
+
+### **7.4.1. Participatory Planning Zones**
+
+Each neighborhood or district shall have a **Participatory Planning Council (PPC)** tasked with:
+
+* Holding regular forums to propose and review development projects
+* Ensuring compliance with citywide sustainability and housing targets
+* Monitoring land use conflicts, gentrification, or exclusion risks
+* Integrating the voices of youth, tenants, marginalized groups, and workers
+
+### **7.4.2. Application for Land Use or Development**
+
+All applications for land use, development, or leasehold extension must include:
+
+* A **Social Impact Assessment**
+* An **Ecological Impact Review**
+* A **Local Council Hearing Record**
+* A **Public Benefit Justification Report**
+
+Proposals are reviewed first by the relevant PPC and then by the LSA. High-impact proposals (defined by budget, scale, or displacement potential) must also undergo a **Civic Referendum** or Deliberative Assembly review.
+
+---
+
+## **Section 5. Anti-Speculation, Displacement, and Vacancy Measures**
+
+### **7.5.1. Anti-Speculation Tax**
+
+An escalating **Annual Speculation Tax** shall apply to all:
+
+* Vacant parcels held without approved use
+* Units left unoccupied beyond 6 months
+* Land acquired and transferred without productive use
+
+Revenue shall be directed to the **Land Equity Fund** for public housing, community acquisition, and ecological restoration.
+
+### **7.5.2. Anti-Displacement Guarantees**
+
+All residents and businesses affected by redevelopment must be:
+
+* Consulted through formal participatory mechanisms
+* Offered **guaranteed return rights** or equivalent relocation options
+* Eligible for **displacement mitigation payments** and social services
+
+Failure to comply invalidates development licenses and activates legal review.
+
+---
+
+## **Section 6. Infrastructure as a Public Good**
+
+### **7.6.1. Universal Infrastructure Mandate**
+
+The City guarantees access to:
+
+* Clean water and sanitation
+* Renewable electricity and heating
+* Digital connectivity (broadband internet)
+* Safe mobility (roads, transit, paths)
+* Public waste and circular economy systems
+
+These systems are to be treated as **non-commodified, universally accessible public goods**, administered under public, cooperative, or civic control.
+
+### **7.6.2. Infrastructure Development Protocols**
+
+All major infrastructure projects must:
+
+* Undergo open design competitions or cooperative project calls
+* Be evaluated for **resilience, accessibility, circularity**, and **carbon neutrality**
+* Include **maintenance and upgrade plans** funded for at least 15 years
+* Comply with **Universal Design standards** ensuring access for people with disabilities, the elderly, and children
+
+---
+
+## **Section 7. Emergency and Climate Resilience Land Use**
+
+### **7.7.1. Emergency Stewardship Powers**
+
+In times of natural disaster, war, or systemic emergency, the City may:
+
+* Temporarily reallocate land use for emergency shelters, food systems, or rebuilding
+* Suspend leaseholds and require reallocation or compensation
+* Use dormant infrastructure capacity for public benefit
+
+Such powers must be:
+
+* Proportional, time-bound, and justified publicly
+* Reviewed biweekly by the Emergency Governance Council
+* Subject to judicial appeal and Civic Assembly ratification within 90 days
+
+### **7.7.2. Climate Buffer Zones**
+
+All planning must account for sea level rise, heatwaves, fire risk, and floods. The LSA shall:
+
+* Maintain a **Climate Adaptation Atlas** with buffer and relocation zones
+* Prioritize **green and blue infrastructure** (wetlands, forests, waterways)
+* Lead strategic relocation where risks are unmanageable
+
+---
+
+## **Section 8. Data, Accountability, and Technological Stewardship**
+
+### **7.8.1. Public Land Data Systems**
+
+The **Open Land Registry** shall include:
+
+* Legal status, leaseholder info, and purpose of every parcel
+* Ecological condition and land use change history
+* Zoning classifications and pending proposals
+* A digital interface for public feedback and dispute resolution
+
+All data shall be **freely accessible, interoperable, and version-tracked**.
+
+### **7.8.2. Civic Technology Tools**
+
+The City shall provide:
+
+* Public digital tools for participatory mapping and design
+* Blockchain-based contract transparency for leaseholds and concessions
+* Sensors and public dashboards for infrastructure performance
+
+---
+
+## **Section 9. Constitutional Review and Enforcement**
+
+### **7.9.1. Legal Precedence**
+
+All land and infrastructure decisions must comply with this Constitution. Where conflicts arise:
+
+* The **Land and Infrastructure Tribunal**, a specialized court, shall adjudicate.
+* Civic Blocks and residents may bring class action complaints.
+* The **Environmental and Generational Justice Chamber** may intervene where future harm is likely.
+
+### **7.9.2. Automatic Remedies for Violations**
+
+If more than 10% of land in any category is misused, vacant, or speculative:
+
+* The Civic Assembly may activate **Corrective Expropriation Protocols**
+* The Land Stewardship Agency must issue a public recovery plan within 60 days
+* Responsible departments face automatic budget reductions or leadership rotation
+
+---
 
 
 
@@ -890,5 +1557,559 @@ Whenever treaties are terminated, a **Reconciliation Report** must be issued det
 * Efforts made to resolve disputes
 * Impacts on civic members
 * Proposed alternative frameworks for cooperation
+
+
+---
+
+# **Article IX. Economy and Labor**
+
+## **Preamble**
+
+The economy of Project City shall be developed, governed, and renewed as a participatory, equitable, and ecologically sustainable system. Its purpose is not mere growth, but the flourishing of human life, the dignity of labor, and the health of the ecosystems upon which we depend. Economic institutions and tools must be designed to ensure social inclusion, eliminate involuntary poverty, and restore community control over productive life. Project City hereby adopts a democratic economic order grounded in cooperation, civic alignment, solidarity, and stewardship.
+
+---
+
+## **Section 1. Cooperative and Civic-Aligned Enterprises**
+
+### **9.1.1. Economic Democracy as a Foundational Principle**
+
+The City shall prioritize the development, financing, and support of **cooperative**, **mutual**, and **civic-aligned enterprises** over extractive, monopolistic, or absentee-owned models. Economic democracy shall be advanced through:
+
+* Worker ownership and governance
+* Participatory budgeting and economic planning
+* Sectoral unions and federated worker councils
+* Localized supply chains and distributed production
+* Profit reinvestment into local communities
+
+All public procurement, subsidies, and economic development programs shall apply **preferential weighting criteria** for such enterprises.
+
+### **9.1.2. Civic Alignment Certification**
+
+An enterprise may apply for designation as a **Civic-Aligned Enterprise (CAE)** by demonstrating:
+
+1. Majority employee or community ownership
+2. Transparent governance with elected oversight
+3. Adherence to environmental and labor benchmarks
+4. Public benefit objectives embedded in founding documents
+
+CAE certification entitles businesses to:
+
+* Enhanced public contracting opportunities
+* Preferential tax treatment
+* Access to the **Municipal Development Bank (MDB)**
+* Participation in citywide **Modular Economic Planning** sessions
+
+CAE status is monitored annually by the **Chamber for Democratic Economies**, which includes worker delegates, civic block members, and economic officials.
+
+---
+
+## **Section 2. Right to Work and Fair Wages**
+
+### **9.2.1. Universal Right to Livelihood**
+
+Every person residing in the City has the right to access dignified and freely chosen work, with protections irrespective of employment form or immigration status. The state shall ensure:
+
+* Guaranteed pathways to employment or self-employment
+* No forced or exploitative labor under any circumstance
+* Special support for youth, persons with disabilities, and returning caregivers
+
+### **9.2.2. Minimum Standards and Labor Rights**
+
+All work performed in Project City shall be protected by:
+
+* A **Living Wage Floor**, adjusted annually for local costs
+* A **maximum working week** of 30–35 hours, with flexibility for care obligations
+* Full freedom of association and collective bargaining
+* Universal sick leave, paid time off, and parental leave guarantees
+* Worker ownership options and profit-sharing incentives
+
+The **Office of Labor Justice** shall investigate and prosecute violations. Labor law violators may be barred from public contracts, and repeat offenders may face community restitution requirements or dissolution proceedings.
+
+### **9.2.3. Nontraditional and Precarious Labor Protections**
+
+Gig workers, freelancers, home-based workers, and informal economy participants shall receive equal protection through:
+
+* Portable benefits accounts
+* Access to cooperative health, retirement, and unemployment pools
+* Civic Block representation
+* Algorithmic transparency and co-governance for platform-based work
+
+Any entity employing algorithmic systems to mediate labor must be **auditable**, explainable, and modifiable by a joint worker–user board.
+
+---
+
+## **Section 3. Local Currencies or Mutual Credit Systems (Optional)**
+
+### **9.3.1. Economic Sovereignty Through Complementary Currencies**
+
+The City authorizes the creation of **local currencies**, **mutual credit systems**, or **time banking systems** to promote:
+
+* Resilience and sovereignty in local economies
+* Stronger community ties through peer-based exchange
+* Counter-cyclic liquidity and inclusive participation
+* New forms of civic value creation beyond monetary profit
+
+These systems shall operate alongside the national currency and may be denominated in metric units (e.g., **WorkHours**, **CivicCredits**, or **KiloPoints**), facilitating intuitive, value-neutral transactions.
+
+### **9.3.2. Governance and Integration**
+
+The establishment of such currencies must:
+
+* Be proposed through a Civic Block or cooperative initiative
+* Receive public review and registry with the Economic Innovation Bureau
+* Operate on transparent, accountable ledgers open to audit
+* Comply with antifraud, labor, and safety standards
+
+The City may **match-fund** initial liquidity pools and provide digital or physical infrastructure (e.g., smart cards, mobile platforms). Integration into public services, housing cooperatives, and infrastructure access is encouraged under a **Community Value Recognition Framework**.
+
+---
+
+## **Section 4. Modular Economic Planning**
+
+### **9.4.1. Framework and Philosophy**
+
+The City adopts a **Modular Economic Planning System (MEPS)** to replace centralized and opaque planning with a distributed, participatory, and adaptive process of:
+
+* Sector-based self-diagnosis and visioning
+* Iterative priority-setting through participatory assemblies
+* Integration of ecological, social, and democratic metrics
+* Flexibility across neighborhoods, industries, and time horizons
+
+MEPS is organized into economic modules, including:
+
+* Food and agriculture
+* Housing and construction
+* Mobility and logistics
+* Energy and materials
+* Care and social services
+* Education and knowledge work
+* Digital infrastructure and media
+
+### **9.4.2. Cyclical Process**
+
+Each module undergoes a 2-year planning cycle involving:
+
+1. **Commons Diagnostic Stage**: Stakeholders assess resource flows, unmet needs, exclusion patterns, and opportunities.
+2. **Open Assembly Stage**: Residents, workers, and civic groups debate and refine goals, priorities, and constraints.
+3. **Target Setting and Alignment**: Quantitative and qualitative goals are matched with public investment, cooperative capacity, and training programs.
+4. **Implementation and Monitoring**: Goals are deployed through sectoral action teams, which issue quarterly progress dashboards.
+
+Failure to meet defined targets may trigger:
+
+* Automatic reallocation of public funding
+* Leadership reevaluation of relevant agencies
+* Urgent assemblies for emergency adaptation
+
+All stages are facilitated by the **Economic Democracy Council (EDC)** and documented in a transparent, interactive online **Civic Economy Map**.
+
+---
+
+## **Section 5. Metric Currency and Value Indexing**
+
+### **9.5.1. Metric Currency Standard**
+
+The City shall adopt a **Metric Currency Index (MCI)** system for internal planning and civic transactions. All costs, wages, and inputs shall be convertible to:
+
+* **WorkHours (Wh)** – Based on median hours of socially necessary labor
+* **EcoUnits (Eu)** – Ecological cost per unit of energy, water, or material
+* **CarePoints (Cp)** – Indexed value of unpaid or relational labor
+
+This system shall:
+
+* Enable better visibility of value generation across nonmonetary sectors
+* Support fair trade between modules and peer cities
+* Facilitate Civic Budgeting and Value Matching in MEPS
+
+MCI data shall be maintained by the **Office of Value and Metrics**, which collaborates with local cooperatives, research institutions, and Civic Block working groups.
+
+---
+
+## **Section 6. Public Finance and Democratic Allocation**
+
+### **9.6.1. Socially Constructed Budgeting**
+
+At least **50% of discretionary public budgets** shall be allocated through **Participatory Budgeting** or Civic Block involvement. All fiscal decisions must:
+
+* Be public, traceable, and machine-readable
+* Comply with ecological and labor safeguards
+* Include impact analysis for income, gender, and racial equity
+
+Budgets are evaluated not only by balance, but by:
+
+* **Capability outcomes** (housing, mobility, care access, education)
+* **Democratization impact** (new co-ops, social enterprises, civic participation)
+* **Circularity and resilience metrics** (waste, energy, self-provisioning)
+
+### **9.6.2. Municipal Development Bank (MDB)**
+
+The MDB shall:
+
+* Provide credit and guarantees to cooperatives and civic-aligned enterprises
+* Issue social bonds for infrastructure and ecological restoration
+* Administer municipal currencies and metrics systems
+* Report quarterly to the Civic Assembly and Economic Democracy Council
+
+Its board shall be composed of:
+
+* One-third public officials
+* One-third cooperative and union delegates
+* One-third Civic Block representatives and public members
+
+---
+
+## **Section 7. Constitutional Review and Enforcement**
+
+### **9.7.1. Economic Justice Tribunal**
+
+A specialized **Economic Justice Tribunal (EJT)** shall hear:
+
+* Violations of labor rights or cooperative obligations
+* Discrimination in economic access or mobility
+* Fraud, corruption, or exclusion in planning or contracting
+* Disputes over currency, credit, or mutual aid systems
+
+The EJT may order restitution, dissolution, institutional reforms, or democratic oversight remedies.
+
+### **9.7.2. Enforcement Mechanisms**
+
+If key economic indicators (living wage compliance, job access rates, enterprise democracy rates) fall below constitutional thresholds:
+
+* The relevant ministry or agency must submit a **90-day correction plan**
+* Workers and Civic Block representatives may initiate a **Public Performance Review**
+* Civic Assemblies may reallocate economic authority across institutions
+
+---
+
+# **Article X. Education, Health, and Culture**
+
+## **Preamble**
+
+Project City recognizes education, health, and culture as foundational rights and public goods—essential to human dignity, democratic participation, and the long-term vitality of civic life. The City’s mission is not only to guarantee access but to actively cultivate meaningful development, liberation from ignorance and suffering, and the celebration of plural identities. These systems shall be co-governed by communities, insulated from market capture, and continuously evaluated for equity and effectiveness.
+
+---
+
+## **Section 1. Public Education System**
+
+### **10.1.1. Universal Access and Lifelong Learning**
+
+Education in Project City shall be:
+
+* Free of cost at all levels
+* Publicly funded and governed
+* Accessible without discrimination of any kind
+* Available to all persons, regardless of age, origin, or immigration status
+* Rooted in lifelong learning and inclusive knowledge creation
+
+The right to education includes:
+
+* Early childhood programs beginning at age 3
+* Primary and secondary education guaranteed through age 18
+* Tuition-free postsecondary education at municipal colleges and apprenticeships
+* Adult and continuing education services, including language access and digital literacy
+* Universal access to libraries, learning centers, and open knowledge platforms
+
+### **10.1.2. Participatory and Decolonial Curriculum**
+
+The City shall support a curriculum that:
+
+* Reflects local and global histories, including those of colonized, displaced, and marginalized peoples
+* Advances ecological literacy, civic agency, media literacy, and cooperative economics
+* Respects multilingualism and culturally diverse pedagogies
+* Includes student, parent, and educator input in curriculum development
+
+Curriculum review bodies shall be composed of:
+
+* Educators from public institutions and cooperative schools
+* Civic Block representatives from youth, elder, and cultural groups
+* Subject-area experts, students, and families
+
+Curricular modules may be locally adapted through **Participatory Education Assemblies**, ensuring relevance and responsiveness.
+
+### **10.1.3. Democratic Governance of Education**
+
+Each educational institution must establish:
+
+* A governing board with representation from educators, students, families, and community partners
+* Transparent budgets and decision-making records
+* Participatory mechanisms for conflict resolution and restorative discipline
+
+A **Public Education Council** shall:
+
+* Review performance metrics and equity gaps
+* Accredit civic-aligned private and alternative education models
+* Fund experimental and public-cooperative partnerships
+* Oversee teacher training rooted in social and emotional development, care ethics, and participatory pedagogy
+
+### **10.1.4. Educational Progress and Remedy Mechanisms**
+
+The City shall set yearly targets for:
+
+* Literacy and numeracy rates
+* Access to postsecondary pathways by socioeconomic quintile
+* Student well-being and teacher retention
+* Community engagement with education institutions
+
+If the City falls short:
+
+* Emergency audits and needs-based budget reallocations shall be triggered
+* Underperforming districts will receive targeted cooperative support, not punitive sanctions
+* Officials responsible for oversight shall undergo a **Public Educational Performance Review**
+* New pedagogical models may be proposed via Civic Block educational forums
+
+---
+
+## **Section 2. Universal Health Access**
+
+### **10.2.1. Health as a Right and Collective Good**
+
+Every person in Project City has the unconditional right to health, including:
+
+* Access to physical, mental, and reproductive care
+* Freedom from preventable suffering and neglect
+* Non-discriminatory treatment regardless of ability, documentation, or employment status
+* Safe, supportive, and trauma-informed environments
+
+Care shall be governed by the principle that health is a public good, not a commodity. Profit-driven or exclusionary systems are prohibited.
+
+### **10.2.2. Community Health Networks**
+
+The City shall establish **Community Health Networks (CHNs)** comprising:
+
+* Neighborhood health centers with full primary and urgent care services
+* Mobile and home-based care teams
+* Cooperative pharmacies and community wellness hubs
+* Mutual aid and peer support networks
+* Public mental health crisis teams and trauma response corps
+
+CHNs must:
+
+* Be democratically governed with patient, care worker, and Civic Block representation
+* Provide culturally competent care in multiple languages
+* Include both professional and non-credentialed community health workers
+* Integrate social determinants such as housing, nutrition, and mobility
+
+### **10.2.3. Health Equity Monitoring and Response**
+
+Health data shall be disaggregated by race, gender, class, age, disability, and geography to track:
+
+* Preventable disease incidence
+* Mental health outcomes
+* Birth and maternal health metrics
+* Environmental health disparities
+
+A **Health Equity Index (HEI)** shall be published quarterly. If any group experiences persistent or growing disparities:
+
+* The relevant health agency shall trigger a **Community Health Equity Hearing**
+* Reparative investment plans shall be created with Civic Block oversight
+* Temporary or permanent reassignment of leadership may be considered
+
+### **10.2.4. Public Pharmaceutical and Care Infrastructure**
+
+Project City shall:
+
+* Develop a **Public Care Cooperative** to deliver non-profit elder care, child care, and home support
+* Operate a **Municipal Health Supply Authority** to manufacture or procure essential medicines and equipment
+* Fund **Open Source Medical Innovation** through public labs and community partnerships
+* Offer health education through schools, media, and civic platforms
+
+---
+
+## **Section 3. Culture and Identity**
+
+### **10.3.1. Right to Cultural Expression**
+
+All persons have the right to:
+
+* Participate in cultural life without coercion or censorship
+* Create, share, and perform cultural expressions
+* Access free or subsidized cultural spaces and institutions
+* Have their languages, traditions, and histories recognized and supported
+
+The City recognizes the co-existence of multiple cultural identities and affirms the principle of **pluriversalism**—support for many ways of knowing, remembering, and imagining.
+
+### **10.3.2. Civic Storytelling and Local Memory**
+
+The City shall:
+
+* Support the documentation and transmission of community histories, particularly those of underrepresented and displaced peoples
+* Maintain neighborhood memory archives, oral history collectives, and truth-telling forums
+* Designate **Public Storytelling Fellowships** for artists, historians, and intergenerational knowledge-keepers
+* Include participatory historical markers and digital repositories in all major infrastructure and redevelopment projects
+
+### **10.3.3. Arts as Public Infrastructure**
+
+Culture is not a luxury but a core dimension of civic infrastructure. Accordingly, the City shall:
+
+* Provide universal access to free public museums, theaters, libraries, and studios
+* Include at least 1% of all capital budgets for cultural creation and programming
+* Establish **Civic Artist in Residence Programs** across government departments
+* Support arts cooperatives, cultural schools, and experimental spaces through a **Municipal Arts Fund**
+
+A **Civic Culture Council**, composed of creators, educators, youth, and Civic Block delegates, shall co-develop cultural policy, allocation, and evaluation.
+
+### **10.3.4. Protection from Erasure and Co-optation**
+
+The City shall protect communities and cultural workers from:
+
+* Displacement due to gentrification or redevelopment
+* Commercial appropriation of sacred or traditional practices
+* Algorithmic suppression of cultural content in public digital spaces
+
+Cultural impact reviews shall be mandatory for major development or algorithmic policy proposals.
+
+---
+
+## **Section 4. Governance and Enforcement**
+
+### **10.4.1. Human Development Coordinating Assembly**
+
+A permanent **Assembly for Human Development (AHD)** shall coordinate across Education, Health, and Culture ministries to:
+
+* Integrate services and metrics
+* Align budgets and shared infrastructures
+* Facilitate sectoral civic participation and co-governance
+* Monitor overall well-being through a **Human Capabilities Index**
+
+The AHD shall include:
+
+* 1/3 public officials
+* 1/3 institutional staff (e.g., teachers, nurses, artists)
+* 1/3 Civic Block and public members
+
+### **10.4.2. Remedies and Escalation**
+
+If key rights (e.g., free education, mental health care access, cultural participation) are denied:
+
+* Affected persons may file claims with the **Human Rights Ombudsperson**
+* Civic Assemblies may initiate a **Human Rights Violation Review**
+* Emergency resources shall be triggered, including mobile schools, pop-up clinics, or digital access kits
+
+Intentional or sustained violations may result in:
+
+* Loss of leadership positions
+* Reallocation of department mandates
+* Legal injunctions or structural reforms by the Constitutional Court
+
+---
+
+# **Article XI. Amendment and Constitutional Renewal**
+
+## **Preamble**
+
+The Constitution of Project City is a living document—binding yet adaptive, principled yet participatory. This Article affirms that the people are the ultimate sovereigns and authors of their fundamental law. To preserve democratic legitimacy and evolving civic consensus, the Constitution must remain open to amendment and periodic renewal through transparent, inclusive, and accountable processes.
+
+No constitutional provision shall be beyond reconsideration by the people. However, the dignity of the democratic process demands both continuity and deliberation. Sudden or manipulative revisions shall be prevented through procedural safeguards, while periodic civic renewal shall ensure the Constitution remains a faithful expression of shared values, evolving needs, and hard-won lessons.
+
+---
+
+## **Section 1. Process for Amendments**
+
+### **11.1.1. Modes of Proposal**
+
+Amendments to the Constitution may be proposed by the following mechanisms:
+
+1. **Popular Initiative**
+
+   * Requires the validated signatures of at least **3% of the City’s adult residents**, representing no fewer than **5 geographic or district assemblies** and **3 Civic Block federations**.
+   * Petitions shall be publicly reviewed and verified by the **Electoral and Deliberative Authority**, with clear timelines and transparent documentation.
+
+2. **Civic Assembly Resolution**
+
+   * May originate from either the **Citywide Citizens’ Assembly** or a **Coalition of at least five Local Assemblies and/or Civic Block Chambers**.
+   * Must be passed with a **two-thirds supermajority** in a recorded vote.
+
+3. **Institutional Proposal**
+
+   * May be initiated by a joint proposal from at least **two executive ministries** in consultation with their participatory co-governance bodies, or from the **Constitutional Court**, with legal reasoning and civic consultation.
+
+In all cases, proposals must be:
+
+* Clearly worded
+* Publicly released in at least three primary languages of the city
+* Reviewed for compliance with international human rights law and foundational democratic principles
+
+### **11.1.2. Deliberation and Public Review**
+
+Once formally proposed, an amendment shall undergo a **120-day public deliberation period** facilitated by the **Deliberative Secretariat**, during which:
+
+* Public hearings, digital forums, and neighborhood debates shall be held
+* Civic education materials shall be distributed in accessible formats
+* Impact assessments shall be prepared regarding legal, fiscal, and institutional consequences
+
+### **11.1.3. Ratification Thresholds**
+
+Following deliberation, a proposed amendment shall be submitted to one of the following ratification procedures:
+
+1. **Participatory Referendum**
+
+   * Requires a simple majority of votes cast, with at least **30% voter participation**, OR
+   * If 50% turnout is achieved, only a simple majority of votes is required
+   * Referendums shall be binding and held no sooner than 30 days and no later than 180 days following the deliberation period
+
+2. **Citywide Citizens’ Assembly Supermajority**
+
+   * The amendment may be ratified with a **three-fourths supermajority** vote of the Citywide Citizens’ Assembly if voter turnout thresholds for a referendum are not met and at least one participatory process has occurred per district.
+
+### **11.1.4. Protected Provisions**
+
+The following may not be removed or altered without **ratification by both referendum and Citizens’ Assembly supermajority**:
+
+* Provisions guaranteeing direct democracy, participatory co-governance, and civic sovereignty
+* Fundamental human rights and freedoms, as defined by this Constitution and international law
+* Anti-discrimination and non-subordination clauses
+
+Any attempt to override these requirements shall be null and void.
+
+---
+
+## **Section 2. Periodic Review and Renewal**
+
+### **11.2.1. Constitutional Convention Cycle**
+
+Every **ten (10) years**, a **Civic Constitutional Convention** shall be convened to:
+
+* Review the performance, coherence, and democratic legitimacy of the Constitution
+* Propose holistic updates or targeted reforms
+* Integrate learnings from prior constitutional complaints, jurisprudence, and civic movements
+
+This Convention shall be:
+
+* Composed of **one-third randomly selected residents**, **one-third Civic Block delegates**, and **one-third representatives of democratic institutions**
+* Balanced by gender, language, age, and geography
+* Supported by independent facilitators, legal experts, translators, and public historians
+* Open to public observation and input throughout the process
+
+The Convention shall last no less than **six months** and no more than **twelve months**, and may:
+
+* Issue proposed revisions to be submitted for referendum
+* Recommend no changes, with justification
+* Trigger emergency reforms in response to civic crises or legal contradictions
+
+### **11.2.2. Interim Emergency Conventions**
+
+In the event of:
+
+* Constitutional paralysis
+* Widespread civic unrest tied to structural injustice
+* Judicial rulings declaring a contradiction within the foundational framework
+* Extraordinary changes in international legal or ecological order
+
+...an **Emergency Constitutional Convention** may be convened with the support of:
+
+* A majority vote from both the Citizens’ Assembly and Civic Block Council
+* A petition of 5% of adult residents across all districts
+* A recommendation from the Constitutional Court
+
+These emergency conventions must still adhere to democratic representation, due process, and ratification requirements.
+
+---
+
+## **Section 3. Transparency, Access, and Living Record**
+
+To maintain the legitimacy of all amendment and renewal processes:
+
+* A publicly accessible **Living Constitution Platform** shall maintain updated text, annotations, amendment history, and explanatory guides
+* All civic participants shall have the right to propose interpretations, raise objections, and document local constitutional understandings
+* An open-access **Civic Law Journal** shall track evolving practices, precedents, and unresolved questions arising from the constitutional order
 
 ---
